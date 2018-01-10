@@ -1,2 +1,2 @@
 # pingpong
-Ping each other
+Pingpong 
