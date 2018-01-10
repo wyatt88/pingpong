@@ -1,0 +1,6 @@
+hash: 55ab0ebcc20f2ea71edac7005a83345f000f9d55a006baa0716a3d7f584dc1ef
+updated: 2018-01-10T17:33:17.813451+08:00
+imports:
+- name: github.com/sparrc/go-ping
+  version: 416e72114cd1edce2f287648f935a60dfe6cf40e
+testImports: []
